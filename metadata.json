@@ -1,0 +1,5 @@
+{
+  "name": "ChefPocket",
+  "description": "A mobile-first recipe application allowing manual uploads and categorization, enhanced with AI assistance and AdSense integration.",
+  "requestFramePermissions": []
+}
